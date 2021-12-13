@@ -1,0 +1,16 @@
+{
+  "name": "print_zpl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "print.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "edge-js": "^16.6.0",
+    "path": "^0.12.7",
+    "printer": "^0.4.0"
+  }
+}
